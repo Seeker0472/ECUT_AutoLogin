@@ -1,4 +1,4 @@
-# AutoLogin
+# ECUT_AutoLogin
 c语言实现东华理工大学校园网自动登录
 
 >注意事项
