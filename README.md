@@ -1,6 +1,6 @@
 # AutoLogin
 c语言实现东华理工大学校园网自动登录
-![image](https://user-images.githubusercontent.com/118952911/221324799-82e64b85-7dde-4670-b0d1-756f4c9bece4.png)  
+
 >注意事项
 >>1.如果想实现开机自动登录，请自行添加计划任务  
 >>2.计划任务程序最好勾选使用最高权限运行  
@@ -12,3 +12,5 @@ c语言实现东华理工大学校园网自动登录
 - [ ] 适配有线连接
 - [ ] 账号密码加密存储
 - [ ] 程序自动添加启动项
+# 运行截图
+![image](https://user-images.githubusercontent.com/118952911/221324799-82e64b85-7dde-4670-b0d1-756f4c9bece4.png)  
